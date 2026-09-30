@@ -1,23 +1,38 @@
-# ayushi-portfolio
-# 🌐 Portfolio Website  
+# 🌐 Ayushi Jain — Portfolio Website
 
-This is my personal **Portfolio Website** created using **HTML & CSS**.  
-It showcases my skills, projects, and contact information in a clean and responsive design.  
+Welcome to my personal portfolio website! This website is designed to showcase my skills, projects, education, and contact information in a clean, modern, and responsive interface.
 
----
+## 👩‍💻 About
 
-## 📂 Project Structure  
-- `index.html` → Main webpage  
-- `style.css` → Stylesheet for the design  
+Hi, I'm **Ayushi Jain**, a Computer Science Engineering student interested in **Web Development and Coding**.
 
----
+I enjoy creating responsive websites and web applications while continuously improving my technical and problem-solving skills.
 
-## ✨ Features  
-- Responsive design  
-- Sections for About, Skills, Projects, and Contact  
-- Simple & lightweight (HTML + CSS only)  
+## ✨ Features
 
----
+- 🏠 Clean and modern homepage
+- 👩‍💻 About Me section
+- 🛠️ Skills section
+- 💼 Projects showcase
+- 🎓 Education section
+- 📬 Contact section
+- 📱 Fully responsive design
+- ✨ Smooth and interactive UI
+- ⚡ Lightweight and fast-loading website
 
-## 🚀 Live Demo  
-[Click here to view](https://ayushi-jain878.github.io/ayushi-portfolio/)
+## 🛠️ Technologies Used
+
+- HTML5
+- CSS3
+- JavaScript
+- Responsive Web Design
+
+## 📂 Project Structure
+
+```text
+ayushi-portfolio/
+│
+├── index.html
+├── style.css
+├── image.jpg
+└── README.md
